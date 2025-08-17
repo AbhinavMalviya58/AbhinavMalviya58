@@ -3,7 +3,7 @@
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" />Hi 👋! My name is Abhinav Malviya and I'm a java full stack Developer || Competitive programmer || Web and Android Developer, <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> </h2>
 
 # 💫 About Me:
-I,m currently working on Android development 
+I,m currently working on Android development  
 
 
 ## 🌐 Socials:
