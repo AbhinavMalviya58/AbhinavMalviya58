@@ -9,7 +9,7 @@
 <!-- Typing SVG -->
 <br/>
 <a href="https://github.com/AbhinavMalviya58">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=6AD3F7&center=true&vCenter=true&multiline=false&width=700&height=55&lines=🚀+Building+Apps+for+Millions+of+Users;📱+Android+%7C+Kotlin+%7C+Jetpack+Compose;⚡+6M%2B+Users+%7C+800K+Concurrent+Requests;🔥+Clean+Architecture+%7C+MVVM+%7C+CI%2FCD;☕+Java+%7C+Spring+Boot+%7C+Kafka+%7C+Firebase;🏆+Competitive+Programmer+%7C+DSA+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=6AD3F7&center=true&vCenter=true&multiline=false&width=700&height=55&lines=%F0%9F%9A%80+Building+Apps+for+Millions+of+Users;%F0%9F%93%B1+Android+%7C+Kotlin+%7C+Jetpack+Compose;%E2%9A%A1+6M%2B+Users+%7C+800K+Concurrent+Requests;%F0%9F%94%A5+Clean+Architecture+%7C+MVVM+%7C+CI%2FCD;%E2%98%95+Java+%7C+Spring+Boot+%7C+Kafka+%7C+Firebase;%F0%9F%8F%86+Competitive+Programmer+%7C+DSA+Expert" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -290,7 +290,7 @@ class Developer {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhinavMalviya58&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhinavMalviya58&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
