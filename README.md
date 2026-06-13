@@ -275,7 +275,7 @@ class Developer {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=AbhinavMalviya58&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&ring_color=6AD3F7" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=AbhinavMalviya58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&ring_color=6AD3F7" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavMalviya58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=c9d1d9&langs_count=8" />
 
 <br/>
