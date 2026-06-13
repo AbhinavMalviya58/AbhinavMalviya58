@@ -38,23 +38,29 @@
 <td width="55%">
 
 ```kotlin
-object AbhinavMalviya {
+/**
+ * @author Abhinav Malviya
+ * @role Mobile App Developer
+ * @location Noida, India 🇮🇳
+ */
+class Developer {
     val name       = "Abhinav Malviya"
-    val role       = "Mobile App Developer"
-    val stack      = listOf("Android", "iOS", "Backend")
-    val location   = "Noida, India 🇮🇳"
-    val education  = "B.Tech — DDU Gorakhpur (2021-25)"
     val email      = "malviyaabhinav4321@gmail.com"
     val phone      = "+91 9198885722"
+    val stack      = listOf("Android", "iOS", "Backend")
 
-    val currentWork = "Digitar Media — MintX App"
-    val superpower  = "Scaling apps to millions 🚀"
-    val passion     = listOf(
+    val currentMission = "Building scalable apps at Digitar Media 🚀"
+    val superpower     = "Scaling apps to millions of users"
+    
+    fun getPassions() = listOf(
         "Clean Architecture",
         "High-Performance Systems",
         "Competitive Programming"
     )
-    val funFact = "I once handled 800K concurrent users 😎"
+
+    fun execute(): String {
+        return "I once handled 800K concurrent users 😎"
+    }
 }
 ```
 
