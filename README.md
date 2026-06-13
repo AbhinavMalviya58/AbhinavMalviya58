@@ -4,7 +4,7 @@
 <!--              ANIMATED HEADER BANNER            -->
 <!-- ══════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ABHINAV%20MALVIYA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%E2%80%A2%20Android%20%7C%20iOS%20%E2%80%A2%20Backend%20Engineer&descAlignY=60&descSize=17&stroke=6AD3F7&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABHINAV%20MALVIYA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%E2%80%A2%20Android%20%7C%20iOS%20%E2%80%A2%20Backend%20Engineer&descAlignY=60&descSize=17&stroke=6AD3F7&strokeWidth=2" />
 
 <!-- Typing SVG -->
 <br/>
